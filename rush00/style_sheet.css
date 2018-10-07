@@ -1,9 +1,9 @@
 
 body{
     background-color: white;
-    background-image: url("image.png");
+    /* background-image: url("image.png");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center; */
 }
 
 body p{
@@ -24,9 +24,9 @@ body p{
 
 #banner
 {
-    background-image: url("./image.png");
+    /* background-image: url("./image.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
     border: 5px solid #dedede;
     height: 200px;
 
@@ -40,7 +40,16 @@ body p{
 
 }
 
-#sidebar{
+#sidebar1{
+    /* float: left; */
+    width: auto;
+    height: 400px;
+    margin: 20px 10px;
+    padding: 10px;
+    border: 2px solid #e3e3e3;
+
+}
+/* #sidebar2{
     float: right;
     width: 250px;
     height: 400px;
@@ -49,6 +58,24 @@ body p{
     border: 2px solid #e3e3e3;
 
 }
+#sidebar3{
+    float: right;
+    width: 250px;
+    height: 400px;
+    margin: 20px 10px;
+    padding: 10px;
+    border: 2px solid #e3e3e3;
+
+}
+#sidebar4{
+    float: right;
+    width: 250px;
+    height: 400px;
+    margin: 20px 10px;
+    padding: 10px;
+    border: 2px solid #e3e3e3;
+
+} */
 
 footer{
     clear: both;

@@ -23,9 +23,19 @@
                 echo $content; 
             ?>
         </div>
-        <div id="sidebar">
+        <div id="sidebar1">
         
         </div>
+        <!-- <div id="sidebar2">
+        
+        </div>
+        <div id="sidebar3">
+        
+        </div>
+        <div id="sidebar4">
+        
+        </div> -->
+
 
         <footer>
             <p>All rights reserved</p>
